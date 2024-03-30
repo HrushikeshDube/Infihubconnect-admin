@@ -1,0 +1,23 @@
+Common
+ ✓ Node.js - Required to execute JavaScript code
+ ✓ npm - Required to install NPM dependencies
+ ● Metro - Metro Bundler is not running
+
+Android
+ ✓ Adb - Required to verify if the android device is attached correctly
+ ✓ JDK - Required to compile Java code
+ ✓ Android Studio - Required for building and installing your app on Android
+ ✓ ANDROID_HOME - Environment variable that points to your Android SDK installation
+ ✓ Gradlew - Build tool required for Android builds
+ ✖ Android SDK - Required for building and installing your app on Android
+   - Versions found: N/A
+   - Version supported: 34.0.0
+
+Errors:   1
+Warnings: 1
+
+Usage
+ › Press f to try to fix issues.
+ › Press e to try to fix errors.
+ › Press w to try to fix warnings.
+ › Press Enter to exit.
