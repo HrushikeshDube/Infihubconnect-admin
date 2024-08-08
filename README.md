@@ -1,4 +1,4 @@
-# College Admin Application
+# InfoHub admin  Application
 
 This is an Android application developed using React Native and Firebase as a backend service. It is designed for college administration to efficiently manage various aspects such as library books, student attendance, notices, and announcements.
 
