@@ -25,7 +25,5 @@ The College Admin Application provides a centralized platform for college admini
 - **Notice Section**: Add and manage daily notices for the college.
 - **Announcement Section**: Create and manage daily announcements.
 
-## Contributing
 
-We welcome contributions from the community! Feel free to open issues or submit pull requests to improve the application.
 
